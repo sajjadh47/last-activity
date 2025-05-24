@@ -1,5 +1,7 @@
 # Last Activity
 
+[![Plugin Banner](https://ps.w.org/last-activity/assets/banner-772x250.png)](https://wordpress.org/plugins/last-activity/)
+
 **Tags:** plugin-status, activity, status, plugin-activity \
 **Tested up to:** 6.8 \
 **Requires PHP:** 8.0
