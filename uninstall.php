@@ -15,4 +15,4 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 /**
  * Remove plugin options on uninstall/delete
  */
-delete_option( LAST_ACTIVITY_PLUGIN_OPTION_NAME );
+delete_option( 'pl_activity_data' );
