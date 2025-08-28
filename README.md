@@ -51,6 +51,9 @@ Just activate the plugin, you are good to go. Go to the plugins page /wp-admin/p
 
 ## Changelog
 
+### 2.0.2
+- Minor fix
+
 ### 2.0.1
 - Checked for latest wp version 6.8
 
