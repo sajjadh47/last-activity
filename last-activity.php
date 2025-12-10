@@ -13,7 +13,7 @@
  * Plugin Name:       Last Activity
  * Plugin URI:        https://wordpress.org/plugins/last-activity/
  * Description:       Keep Tracks of each plugin's last active datetime, helpful to find obsolete plugins for deletion.
- * Version:           2.0.2
+ * Version:           2.0.3
  * Requires at least: 5.6
  * Requires PHP:      8.0
  * Author:            Sajjad Hossain Sagor
@@ -32,7 +32,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Currently plugin version.
  */
-define( 'LAST_ACTIVITY_PLUGIN_VERSION', '2.0.2' );
+define( 'LAST_ACTIVITY_PLUGIN_VERSION', '2.0.3' );
 
 /**
  * Define Plugin Folders Path
