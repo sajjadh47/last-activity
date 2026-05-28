@@ -3,7 +3,7 @@
 [![Plugin Banner](https://ps.w.org/last-activity/assets/banner-1544x500.png)](https://wordpress.org/plugins/last-activity/)
 
 **Tags:** plugin-status, activity, status, plugin-activity \
-**Tested up to:** 6.9 \
+**Tested up to:** 7.0 \
 **Requires PHP:** 8.0
 
 This plugin saves each plugin's last activity time.
@@ -50,6 +50,9 @@ Just activate the plugin, you are good to go. Go to the plugins page /wp-admin/p
 ![Dashboard](https://ps.w.org/last-activity/assets/screenshot-1.png)
 
 ## Changelog
+
+### 2.0.4
+- Compatibility checkup for latest wp version 7.0
 
 ### 2.0.3
 - Compatibility checkup for latest wp version 6.9
